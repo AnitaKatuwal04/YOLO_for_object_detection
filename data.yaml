@@ -1,0 +1,5 @@
+train: images1/train
+val: images1/test
+nc: 11
+names: ["toy", "butterfly", "cup", "flower", "helicopter", "shoe", "dog", "cat", "car", "chair", "bird"]
+
